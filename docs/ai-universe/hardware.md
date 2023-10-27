@@ -1,4 +1,4 @@
-# Hardware for Deep Learning
+# Hardware 
 
 Dive into the intricacies of Deep Learning hardware through extensive resources. This deep exploration provides an in-depth comprehension of hardware solutions for Deep Learning, equipping you with advanced knowledge and practical insights in this domain.
 For those new to this journey, there's no requirement for hardware investments.
