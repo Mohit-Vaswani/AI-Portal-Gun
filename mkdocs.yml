@@ -2,7 +2,7 @@ repo_url: https://github.com/the-full-stack/website
 repo_name: AI Portal Gun
 edit_uri: edit/main/docs
 
-site_name: AI Portal Gun
+site_name: ""
 theme:
   name: material
   features:
@@ -11,7 +11,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: light green
+      accent: custom
       primary: custom
       toggle:
         icon: material/brightness-7
@@ -21,12 +21,12 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
-      accent: light green
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
 
-  logo: assets/logo.png
+  logo: /assets/images/nameLogo.png
   favicon: /assets/images/favicon.png
   icon:
     previous: fontawesome/solid/angle-left
