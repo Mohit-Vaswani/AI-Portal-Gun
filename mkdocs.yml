@@ -1,0 +1,102 @@
+repo_url: https://github.com/the-full-stack/website
+repo_name: AI Portal Gun
+edit_uri: edit/main/docs
+
+site_name: AI Portal Gun
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      accent: light green
+      primary: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: light green
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  logo: assets/logo.png
+  favicon: /assets/images/favicon.png
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+    edit:
+    top:
+    view:
+    repo: fontawesome/brands/git-alt
+
+  # Plugins
+  plugins:
+    - blog
+
+extra:
+  language: en
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://twitter.com/AIPortalGun"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/AIPortalGun"
+    - icon: "fontawesome/brands/discord"
+      link: "https://discord.com/invite/FqyQECEsCd"
+    - icon: "fontawesome/brands/linkedin"
+      link: "#"
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - "AI Universe":
+    - ai-universe/index.md 
+    - ai-universe/intro.md
+    - ai-universe/ml.md
+    - "Core concepts":
+      - ai-universe/core-concepts/maths.md 
+      - ai-universe/core-concepts/tech-deep-dive.md
+    - ai-universe/deep-learning.md
+    - ai-universe/comp-vision.md
+    - ai-universe/hardware.md
+    - ai-universe/reinforcement-learning.md
+    - ai-universe/generative-ai.md
+    - ai-universe/deep-dive-into-llm.md
+    - ai-universe/prompt-engineering.md
+    - ai-universe/open-source-llm.md
+    - ai-universe/enhancing-model.md
+    - "Generative Models": 
+      - ai-universe/gen-models/image-generation.md
+      - ai-universe/gen-models/audio-generation.md
+      - ai-universe/gen-models/code-generation.md
+      - ai-universe/gen-models/video-generation.md
+      - ai-universe/gen-models/multimodel.md 
+    - ai-universe/webui.md
+    - ai-universe/mlops.md
+    - ai-universe/healthcare.md
+    - ai-universe/robotics.md
+    - "NewFace Models": 
+      - ai-universe/newface-models/base-models.md
+      - ai-universe/newface-models/tune-models.md
+  - "Research Papers": 
+    - papers/papers.md
+  - "Additional Resources": 
+    - additional-resources/resources.md
+
+
+  - Blog: blog/index.md
