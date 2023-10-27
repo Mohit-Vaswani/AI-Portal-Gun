@@ -49,6 +49,12 @@ extra:
     - name: Deutsch
       link: /de/
       lang: de
+    - name: Japanise
+      link: /jp/
+    - name: Korean
+      link: /kr/
+    - name: Turkish
+      link: /tr/
   social:
     - icon: "fontawesome/brands/github"
       link: "https://twitter.com/AIPortalGun"
