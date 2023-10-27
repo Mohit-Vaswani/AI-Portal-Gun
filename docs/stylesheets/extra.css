@@ -6,7 +6,7 @@
 
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #000000;
-  color: aliceblue;
+  color: EDEDED;
 }
 
 body {
@@ -16,5 +16,11 @@ body {
 }
 
 .md-header__button.md-logo img {
-  width: 110px;
+  height: 33px;
 }
+
+.md-header__button.md-logo {
+  margin: 0;
+  padding: .35rem;
+}
+

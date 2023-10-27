@@ -2,7 +2,7 @@ repo_url: https://github.com/the-full-stack/website
 repo_name: AI Portal Gun
 edit_uri: edit/main/docs
 
-site_name: ""
+site_name: AI Portal Gun
 theme:
   name: material
   features:
@@ -26,7 +26,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  logo: /assets/images/nameLogo.png
+  logo: assets/logo.png
   favicon: /assets/images/favicon.png
   icon:
     previous: fontawesome/solid/angle-left
