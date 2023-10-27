@@ -2,7 +2,7 @@
 
 If you are new to the dynamic field of machine learning, you have arrived at the appropriate universe. This planet, designed with beginners in mind, serves as the initial step in your quest to achieve mastery in the field of machine learning. In this segment, you will encounter a carefully curated compilation of resources specifically crafted for individuals with limited experience. 
 
-<img src="/assets/images/memes/aiMeme.png" alt="Thinking AI"/>
+<img src="/assets/images/aiMeme.png" alt="Thinking AI"/>
 
 These materials will deliver a gradual introduction to fundamental machine learning concepts and essential terminology at a basic level.
 
