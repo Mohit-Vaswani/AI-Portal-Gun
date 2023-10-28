@@ -15,6 +15,7 @@ Explore these advanced resources, spanning from in-depth deep learning concepts 
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 <br/>
+
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) This course introduces deep learning, covering neural networks, CNNs, and RNNs. It explores supervised and unsupervised learning, optimization, and more. It's designed for students with foundational knowledge in linear algebra, calculus, and probability theory. [(website)](http://introtodeeplearning.com/)
 
 - [Practical Deep Learning for Coders](https://course.fast.ai/) by Fast.AI, experience comprehensive learning, explained through practical examples and code. Led by experienced mentors, this program equips developers with hands-on skills to excel in deep learning's real-world applications.
