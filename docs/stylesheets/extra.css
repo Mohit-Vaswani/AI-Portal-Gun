@@ -1,12 +1,16 @@
 :root {
-  --md-primary-fg-color: #77b900;
-  --md-primary-fg-color--light: #77b900;
+  --md-primary-fg-color: #76B900;
+  --md-primary-fg-color--light: #76B900;
   --md-primary-fg-color--dark: #191919;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color: #191919;
-  color: #cccccc;
+  --md-default-bg-color: #000000;
+  color: #FFFFFF;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 a {
@@ -14,11 +18,11 @@ a {
 }
 a:hover,
 a:focus {
-  outline-color: #77b900;
+  outline-color: #76B900;
   outline-offset: 2px;
 }
 .md-content a {
-  color: #77b900;
+  color: #76B900;
 }
 .md-content a:hover,
 .md-content a:focus {
@@ -28,6 +32,7 @@ a:focus {
 a:hover {
   transition: all 0.5s;
 }
+
 .md-typeset hr {
   margin: 1em 0 !important;
 }

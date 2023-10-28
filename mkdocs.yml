@@ -4,6 +4,7 @@ edit_uri: edit/main/docs
 site_name: AI Portal Gun
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.path
@@ -64,7 +65,9 @@ extra:
       link: "https://discord.com/invite/FqyQECEsCd"
     - icon: "fontawesome/brands/linkedin"
       link: "#"
-
+  features:
+    - header.autohide
+    - announce.dismiss
 extra_css:
   - stylesheets/extra.css
 
