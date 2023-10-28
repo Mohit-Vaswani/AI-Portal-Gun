@@ -64,12 +64,6 @@ a.button-reg:hover {
   color: #77b900;
 }
 
-body {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  font-family: intel, sans-serif;
-}
 
 .md-header__button.md-logo img {
   height: 33px;
@@ -78,4 +72,9 @@ body {
 .md-header__button.md-logo {
   margin: 0;
   padding: 0.35rem;
+}
+
+h1{
+  font-weight: 900;
+  color: #FFFFFF;
 }

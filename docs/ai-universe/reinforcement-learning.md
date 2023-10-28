@@ -2,7 +2,7 @@
 
 Reinforcement Learning (RL) is an AI paradigm where agents learn by interacting with their environment. It mimics trial-and-error learning, aiming to maximize cumulative rewards. Deep Dive into Deep Reinforcement Learning (DRL) delves further into RL, exploring how neural networks enhance its capabilities. This subfield pioneers self-improving algorithms and their applications, from robotics to gaming.
 
-<img src="/assets/images/gif/rl.gif" alt="reinforcement learning gif/>
+<img src="/assets/images/gif/rl.gif" alt="reinforcement learning gif"/>
 
 ### Courses
 
