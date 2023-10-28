@@ -82,6 +82,7 @@ nav:
       - ai-universe/core-concepts/tech-deep-dive.md
     - ai-universe/deep-learning.md
     - ai-universe/comp-vision.md
+    - ai-universe/nlp.md 
     - ai-universe/hardware.md
     - ai-universe/reinforcement-learning.md
     - ai-universe/generative-ai.md
