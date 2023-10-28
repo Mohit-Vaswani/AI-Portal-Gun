@@ -1,7 +1,7 @@
 :root {
-  --md-primary-fg-color: #191919;
+  --md-primary-fg-color: #77b900;
   --md-primary-fg-color--light: #77b900;
-  --md-primary-fg-color--dark: #191919;    
+  --md-primary-fg-color--dark: #191919;
 }
 
 [data-md-color-scheme="slate"] {
@@ -9,7 +9,55 @@
   color: #cccccc;
 }
 
+a {
+  transition: all 1s ease-in-out;
+}
+a:hover,
+a:focus {
+  outline-color: #77b900;
+  outline-offset: 2px;
+}
+.md-content a {
+  color: #77b900;
+}
+.md-content a:hover,
+.md-content a:focus {
+  text-decoration: underline;
+  color: #77b900;
+}
+a:hover {
+  transition: all 0.5s;
+}
+.md-typeset hr {
+  margin: 1em 0 !important;
+}
 
+/*BUTTONS*/
+a.button-large,
+a.button-reg {
+  display: inline-block;
+  padding: 0.25em 1em;
+  border-radius: 0.3em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  color: #77b900;
+  font-size: 1.5em;
+  background-color: #77b900;
+  text-decoration: none;
+}
+a.button-reg {
+  font-size: 1em;
+  color: #77b900;
+}
+a.button-large:hover,
+a.button-reg:hover {
+  border-color: #77b900;
+  color: #77b900;
+}
+.mkd-border {
+  border: #77b900;
+  color: #77b900;
+}
 
 body {
   font-style: normal;
@@ -26,4 +74,3 @@ body {
   margin: 0;
   padding: 0.35rem;
 }
-
