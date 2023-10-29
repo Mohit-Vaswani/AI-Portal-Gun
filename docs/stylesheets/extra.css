@@ -6,7 +6,7 @@
 
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #000000;
-  color: #cacac8;
+  color: #dededc;
 }
 
 body {
@@ -40,9 +40,13 @@ body {
   background-color: #000000;
 }
 
-.md-header {
+.md-header{
   background-color: #76b900;
 }
+
+/* .md-header--shadow .md-ellipsis{
+  color: #000000;
+} */
 
 .md-search-result__meta{
   background-color: #77b900;
