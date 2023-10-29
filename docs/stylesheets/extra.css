@@ -1,18 +1,69 @@
 :root {
-  --md-primary-fg-color: #76B900;
-  --md-primary-fg-color--light: #76B900;
+  --md-primary-fg-color: #76b900;
+  --md-primary-fg-color--light: #76b900;
   --md-primary-fg-color--dark: #191919;
 }
 
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #000000;
-  color: #FFFFFF;
+  color: #D1D5DA
 }
 
-body{
-  font-family: 'Quicksand', sans-serif;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.25px;
+  font-weight: 100;
 }
-@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+.md-banner {
+  color: #76b900;
+  background-color: #191919;
+  text-align: center;
+}
+
+
+.md-sidebar .md-ellipsis:hover {
+  color: #76b900;
+}
+
+.md-sidebar .md-nav__link:hover {
+  color: #76b900;
+}
+
+.md-footer-meta{
+  background-color: #000000;
+}
+
+.md-tabs {
+  font-weight: 400;
+  color: #191919;
+  background-color: #76b900;
+}
+
+.md-header {
+  background-color: #76b900;
+}
+
+.md-search-result__meta{
+  background-color: #77b900;
+  color: #000000;
+}
+
+.md-search-result__list{
+  background-color: #191919;
+  color: #000000;
+}
+
+.md-select__link:hover{
+  color: #76b900;
+}
+
+
+/* .md-search-result__article p,li{
+  color: #e8e8e6;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.25px;
+} */
 
 
 a {
@@ -20,63 +71,20 @@ a {
 }
 a:hover,
 a:focus {
-  outline-color: #76B900;
+  outline-color: #76b900;
   outline-offset: 2px;
 }
 .md-content a {
-  color: #76B900;
+  color: #76b900;
 }
 .md-content a:hover,
 .md-content a:focus {
   text-decoration: underline;
   color: #77b900;
 }
-a:hover {
-  transition: all 0.5s;
-}
-
-.md-typeset hr {
-  margin: 1em 0 !important;
-}
-
-/*BUTTONS*/
-a.button-large,
-a.button-reg {
-  display: inline-block;
-  padding: 0.25em 1em;
-  border-radius: 0.3em;
-  margin-right: 2em;
-  margin-bottom: 1em;
-  color: #77b900;
-  font-size: 1.5em;
-  background-color: #77b900;
-  text-decoration: none;
-}
-a.button-reg {
-  font-size: 1em;
-  color: #77b900;
-}
-a.button-large:hover,
-a.button-reg:hover {
-  border-color: #77b900;
-  color: #77b900;
-}
-.mkd-border {
-  border: #77b900;
-  color: #77b900;
-}
 
 
-.md-header__button.md-logo img {
-  height: 33px;
-}
-
-.md-header__button.md-logo {
-  margin: 0;
-  padding: 0.35rem;
-}
-
-h1{
+h1 {
   font-weight: 900;
-  color: #FFFFFF;
+  color: #ffffff;
 }
