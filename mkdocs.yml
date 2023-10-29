@@ -13,7 +13,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: custom
+      accent: light green
       primary: custom
       toggle:
         icon: material/brightness-7
@@ -22,7 +22,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: custom
-      accent: custom
+      accent: light green
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

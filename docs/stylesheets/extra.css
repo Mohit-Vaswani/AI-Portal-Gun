@@ -10,8 +10,10 @@
 }
 
 body{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
 
 a {
   transition: all 1s ease-in-out;
