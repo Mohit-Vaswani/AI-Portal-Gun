@@ -6,7 +6,7 @@
 
 [data-md-color-scheme="slate"] {
   --md-default-bg-color: #000000;
-  color: #cacaca;
+  color: #E3E3E4;
 }
 
 body {
@@ -16,11 +16,10 @@ body {
 }
 
 .md-banner {
-  color: #76b900;
+  color: #77b900;
   background-color: #000000;
   text-align: center;
 }
-
 
 .md-sidebar .md-ellipsis:hover {
   color: #76b900;
@@ -34,40 +33,31 @@ body {
   background-color: #000000;
 }
 
-.md-tabs {
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+.md-tabs{
   font-weight: 400;
-  color: #FFFFFF;
-  background-color: #000000;
+  color: #ffffff;
+  background-color: #77b900;
+  font-family: 'Roboto', sans-serif;
 }
 
 .md-header{
-  background-color: #76b900;
+  background-color: #77b900;
 }
-
-/* .md-header--shadow .md-ellipsis{
-  color: #000000;
-} */
 
 .md-search-result__meta{
   background-color: #77b900;
-  color: #000000;
+  color: #1A1A1A;
 }
 
 .md-search-result__list{
-  background-color: #191919;
+  background-color: #1A1A1A;
   color: #000000;
 }
 
 .md-select__link:hover{
   color: #76b900;
 }
-
-
-/* .md-search-result__article p,li{
-  color: #e8e8e6;
-  font-family: Arial, Helvetica, sans-serif;
-  letter-spacing: 0.25px;
-} */
 
 
 a {

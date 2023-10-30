@@ -1,4 +1,4 @@
-# Vedio Generation
+# Video Generation
 
 AI video generation utilizes artificial intelligence to automatically produce video content. By understanding user input, it generates visual and audio elements, offering an efficient way to create videos for various applications.
 
