@@ -45,6 +45,10 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Robotics
 
+- [Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots](https://ai.meta.com/static-resource/habitat3) (2023) [(website)](https://aihabitat.org/habitat3/) 
+
+- [PythonRobotics: a Python code collection of robotics algorithms](https://arxiv.org/abs/1808.10703v1) (2019) [(code)](https://github.com/AtsushiSakai/PythonRobotics)
+
 ### Key Papers
 
 - [A Practical and Effective Layout for a Safe Human-Robot Collaborative Assembly Task](https://doi.org/10.3390/app11041763) (2021)
@@ -60,6 +64,8 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Healthcare & Biology
 
+- [Alphafold](https://www.deepmind.com/research/highlighted-research/alphafold) (2020)
+
 ## Approaches
 
 ## Reinforcement Learning
@@ -74,7 +80,7 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 
 
-### Deep Reinforcement Learning
+### Deep RL
 
 ####  Key Papers 
 
