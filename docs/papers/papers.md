@@ -52,6 +52,8 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Reinforcement Learning
 
+- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/abs/2002.06038) (2020)
+
 ### Deep RL Key Papers
 
 - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) (2013): Presents the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning.
