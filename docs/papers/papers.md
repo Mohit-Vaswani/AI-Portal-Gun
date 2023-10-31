@@ -76,32 +76,32 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [The Reactor: A Fast and Sample-Efficient Actor-Critic Agent for Reinforcement Learning](https://arxiv.org/abs/1704.04651) (2017): Introduces a fast and sample-efficient actor-critic algorithm for reinforcement learning that improves sample efficiency and learning speed.
 - [Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning](http://papers.nips.cc/paper/6974-interpolated-policy-gradient-merging-on-policy-and-off-policy-gradient-estimation-for-deep-reinforcement-learning) (2017): Proposes an interpolated policy gradient algorithm for deep reinforcement learning that combines on-policy and off-policy gradient estimation.
 - [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440) (2017): Shows the equivalence between policy gradients and soft Q-learning in reinforcement learning.
-- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) (2017)
-- [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674) (2016)
-- [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) (2016)
-- [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310) (2017)
-- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717) (2016)
-- [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://arxiv.org/abs/1703.01260) (2017)
-- [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363) (2017)
-- [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355) (2018)
-- [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894) (2018)
-- [Variational Intrinsic Control](https://arxiv.org/abs/1611.07507) (2016)
-- [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) (2018)
-- [Variational Option Discovery Algorithms](https://arxiv.org/abs/1807.10299) (2018)
-- [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) (2016)
-- [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) (2015)
-- [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300) (2017)
-- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) (2017)
-- [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907) (2017)
-- [Learning an Embedding Space for Transferable Robot Skills](https://openreview.net/forum?id=rk07ZXZRb&noteId=rk07ZXZRb) (2018)
-- [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (2017)
-- [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (2016)
-- [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017)
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) (2017): Explores the use of evolution strategies, a class of black box optimization algorithms, as an alternative to popular reinforcement learning techniques.
+- [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674) (2016): Proposes a variational information maximizing exploration method for reinforcement learning that improves exploration efficiency.
+- [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) (2016): Unifies count-based exploration and intrinsic motivation methods for reinforcement learning to improve exploration efficiency.
+- [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310) (2017): Proposes a count-based exploration method for reinforcement learning that uses neural density models to improve exploration efficiency.
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717) (2016): Studies the effectiveness of count-based exploration methods for deep reinforcement learning.
+- [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://arxiv.org/abs/1703.01260) (2017): Proposes an exploration method for deep reinforcement learning that uses exemplar models to improve exploration efficiency.
+- [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363) (2017): Proposes a curiosity-driven exploration method for reinforcement learning that uses self-supervised prediction to improve exploration efficiency.
+- [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355) (2018): Conducts a large-scale study of curiosity-driven learning in reinforcement learning.
+- [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894) (2018): Proposes an exploration method for reinforcement learning that uses random network distillation to improve exploration efficiency.
+- [Variational Intrinsic Control](https://arxiv.org/abs/1611.07507) (2016): Proposes a variational intrinsic control method for reinforcement learning that improves exploration efficiency.
+- [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) (2018): Proposes a method for learning skills without a reward function in reinforcement learning that improves sample efficiency.
+- [Variational Option Discovery Algorithms](https://arxiv.org/abs/1807.10299) (2018): Proposes a variational option discovery algorithm for reinforcement learning that improves sample efficiency.
+- [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) (2016): Proposes a progressive neural network architecture for reinforcement learning that improves sample efficiency.
+- [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) (2015): Proposes a universal value function approximator for reinforcement learning that improves sample efficiency.
+- [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300) (2017): Proposes a method for learning to solve multiple continuous control tasks simultaneously in reinforcement learning.
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) (2017): Proposes a method for combining evolution and gradient descent in neural network training for reinforcement learning.
+- [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907) (2017): Proposes a mutual alignment transfer learning method for reinforcement learning that improves sample efficiency.
+- [Learning an Embedding Space for Transferable Robot Skills](https://openreview.net/forum?id=rk07ZXZRb&noteId=rk07ZXZRb) (2018): Proposes a method for learning an embedding space for transferable robot skills in reinforcement learning.
+- [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (2017): Proposes a hindsight experience replay method for reinforcement learning that improves sample efficiency.
+- [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (2016): Proposes a strategic attentive writer method for learning macro-actions in reinforcement learning that improves sample efficiency.
+- [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017): Proposes a feudal network architecture for hierarchical reinforcement learning that improves sample efficiency.
 - [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296)
-  (2018)
-- [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460) (2016)
-- [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (2017)
-- [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360) (2017):
+  (2018): Proposes a data-efficient hierarchical reinforcement learning method that improves sample efficiency.
+- [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460) (2016): Proposes a model-free episodic control method for reinforcement learning that improves sample efficiency.
+- [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (2017): Proposes a neural episodic control method for reinforcement learning that improves sample efficiency.
+- [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360) (2017): Proposes a neural map architecture for reinforcement learning that uses structured memory to improve sample efficiency.
 - [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760) (2018):
 - [ Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018)
 - [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017):
