@@ -143,13 +143,14 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods](https://arxiv.org/abs/1810.02525) (2018):  Conducts an empirical analysis of gradient descent optimization in policy gradient methods for reinforcement learning.
 - [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?](https://arxiv.org/abs/1811.02553) (2018): Discusses the definition and properties of policy gradient algorithms in reinforcement learning.
 - [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://arxiv.org/abs/1803.07055) (2018): Proposes a simple random search method for reinforcement learning that achieves competitive performance.
-- [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057) (2019):
-- [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (2000):
-- [An Analysis of Temporal-Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) (1997):
-- [Reinforcement Learning of Motor Skills with Policy Gradients](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf) (2008):
-- [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf) (2002):
-- [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf) (2002):
-- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) (2009):
+- [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057) (2019): Proposes a benchmarking library for (MBRL) algorithms and environments to facilitate research and comparison of MBRL methods.
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (2000): Proposes a policy gradient method for reinforcement learning with function approximation that improves sample efficiency.
+- [An Analysis of Temporal-Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) (1997): Conducts an analysis of temporal-difference learning with function approximation in reinforcement learning.
+- [Reinforcement Learning of Motor Skills with Policy Gradients](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf) (2008): Proposes a policy gradient method for reinforcement learning of motor skills that improves sample efficiency.
+- [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf) (2002): Proposes an approximately optimal approximate reinforcement learning method that improves sample efficiency.
+- [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf) (2002): Proposes a natural policy gradient method for reinforcement learning that improves sample efficiency.
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) (2009): Provides an overview of reinforcement learning algorithms, including model-based and model-free methods, and their applications.
+
 
 
 ## Quantum Machine Learning
