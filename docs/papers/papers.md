@@ -52,9 +52,17 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Reinforcement Learning
 
-- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/abs/2002.06038) (2020)
+####  Key Papers 
 
-### Deep RL Key Papers
+- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/abs/2002.06038) (2020)
+- [Q-learning](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) (1992): Introduces the Q-learning algorithm, one of the fundamental algorithms in RL.
+- [Policy invariance under reward transformations: Theory and application to reward shaping](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/NgHaradaRussell-shaping-ICML1999.pdf) (1999): Discusses the invariance of policies under reward transformations and the concept of reward shaping.
+
+
+
+### Deep Reinforcement Learning
+
+####  Key Papers 
 
 - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) (2013): Presents the first deep learning model to successfully learn control policies directly from high-dimensional sensory input using reinforcement learning.
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527) (2015): Proposes a deep recurrent Q-learning algorithm for partially observable Markov decision processes.
