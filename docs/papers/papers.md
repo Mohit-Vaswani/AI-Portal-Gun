@@ -36,6 +36,14 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ### Prompt Engineering
 
+- [Parameter-Efficient Transfer Learning for NLP](https://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf) [(project)](https://github.com/google-research/adapter-bert)
+
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) [(project)](https://github.com/google-research/text-to-text-transfer-transformer)
+
+- [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) [(pdf)](https://github.com/facebookresearch/LAMA)
+
+- []
+
 ## Robotics
 
 ## Healthcare & Biology
@@ -155,9 +163,24 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Quantum Machine Learning
 
-- [Quantum Machine Learning]() (2014) - Early paper outlining basic goals and approaches for quantum ML.
+- [PennyLane: Automatic differentiation of hybrid quantum-classical computations](https://arxiv.org/abs/1811.04968v4) (2018) [(code)](https://github.com/PennyLaneAI/pennylane)
+
+- [TensorFlow Quantum: A Software Framework for Quantum Machine Learning](https://arxiv.org/abs/2003.02989v2) (2020) [(code)](https://github.com/tensorflow/quantum)
+
+- [A divide-and-conquer algorithm for quantum state preparation](https://arxiv.org/abs/2008.01511v2) (2020) [(code)](https://github.com/qclib/qclib)
+
+- [Quantum Neuron: an elementary building block for machine learning on quantum computers](https://arxiv.org/abs/1711.11240v1) (2017)
+
+- [q-means: A quantum algorithm for unsupervised machine learning](https://arxiv.org/abs/1812.03584v2) (2019)
+ 
+### Key Papers
+
+- [Quantum Machine Learning](https://arxiv.org/abs/1611.09347) (2014) - Early paper outlining basic goals and approaches for quantum ML.
+- [An introduction to quantum machine learning](https://arxiv.org/abs/1409.3097) (2014)
+- [Distributed secure quantum machine learning](https://www.sciencedirect.com/science/article/abs/pii/S2095927317303250) (2017)
 - [Quantum algorithms for supervised and unsupervised machine learning]() (2013) - Proposes quantum algorithms for supervised classification and unsupervised clustering.
 - [Quantum Neural Networks]() (2018) - Describes a quantum version of neural networks with quantum circuits.
+- [Alchemical and structural distribution based representation for universal quantum machine learning](https://pubs.aip.org/aip/jcp/article/148/24/241717/961132/Alchemical-and-structural-distribution-based) (2018)
 - [Quantum variational autoencoder]() (2017) - Implements a variational autoencoder using parametrized quantum circuits.
 - [Quantum Boltzmann Machine]() (2018) - Proposes a generative quantum model based on Boltzmann machines.
 - [Quantum generative adversarial networks]() (2018) - Formulates a quantum version of GANs using quantum circuits.
