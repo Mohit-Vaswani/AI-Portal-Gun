@@ -102,47 +102,47 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460) (2016): Proposes a model-free episodic control method for reinforcement learning that improves sample efficiency.
 - [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (2017): Proposes a neural episodic control method for reinforcement learning that improves sample efficiency.
 - [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360) (2017): Proposes a neural map architecture for reinforcement learning that uses structured memory to improve sample efficiency.
-- [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760) (2018):
-- [ Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018)
-- [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017):
-- [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/abs/1708.02596) (2017):
-- [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://arxiv.org/abs/1803.00101) (2018):
-- [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675) (2018):
-- [Model-Ensemble Trust-Region Policy Optimization](https://openreview.net/forum?id=SJJinbWRZ&noteId=SJJinbWRZ) (2018):
-- [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) (2018)
-- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) (2018)
-- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) (2017):
-- [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439) (2017):
-- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (2016):
-- [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763) (2016):
-- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (2017):
-- [A Simple Neural Attentive Meta-Learner](https://openreview.net/forum?id=B1DmUzWAW&noteId=B1DmUzWAW) (2018):
-- [Accelerated Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1803.02811) (2018):
-- [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561) (2018):
-- [Distributed Prioritized Experience Replay](https://openreview.net/forum?id=H1Dy---0Z) (2018):
-- [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/forum?id=r1lyTjAqYX) (2018):
-- [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381) (2017): [(docs)](https://ray.readthedocs.io/en/latest/rllib.html)
-- [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/abs/1809.07731) (2018):
-- [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177) (2018):
-- [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (2018):
-- [Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260) (2018):
-- [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565) (2016):
-- [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528) (2017):
-- [Safe Exploration in Continuous Action Spaces](https://arxiv.org/abs/1801.08757) (2018):
-- [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173) (2017):
-- [Leave No Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning](https://arxiv.org/abs/1711.06782) (2017):
-- [Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf) (2010):
-- [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448) (2016):
-- [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (2016):
-- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf) (2018):
-- [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://arxiv.org/abs/1810.00821) (2018):
-- [One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL](https://arxiv.org/abs/1810.05017) (2018):
-- [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) (2016):
-- [Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control](https://arxiv.org/abs/1708.04133) (2017):
-- [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560) (2017):
-- [Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods](https://arxiv.org/abs/1810.02525) (2018):
-- [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?](https://arxiv.org/abs/1811.02553) (2018):
-- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://arxiv.org/abs/1803.07055) (2018):
+- [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760) (2018): Proposes an unsupervised predictive memory method for goal-directed agents in reinforcement learning that improves sample efficiency.
+- [ Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018): Proposes a relational recurrent neural network architecture for reinforcement learning that improves sample efficiency.
+- [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017): Proposes an imagination-augmented agent method for reinforcement learning that improves sample efficiency.
+- [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/abs/1708.02596) (2017): Proposes a neural network dynamics method for model-based deep reinforcement learning that improves sample efficiency.
+- [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://arxiv.org/abs/1803.00101) (2018): Proposes a model-based value expansion method for model-free reinforcement learning that improves sample efficiency.
+- [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675) (2018): Proposes a sample-efficient reinforcement learning method with stochastic ensemble value expansion that improves sample efficiency.
+- [Model-Ensemble Trust-Region Policy Optimization](https://openreview.net/forum?id=SJJinbWRZ&noteId=SJJinbWRZ) (2018): Proposes a model-ensemble trust-region policy optimization method for reinforcement learning that improves sample efficiency.
+- [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) (2018): Proposes a model-based reinforcement learning method via meta-policy optimization that improves sample efficiency.
+- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) (2018): Proposes a recurrent world models method for policy evolution in reinforcement learning that improves sample efficiency.
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) (2017): Proposes a general reinforcement learning algorithm for mastering chess and shogi by self-play that achieves superhuman performance.
+- [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439) (2017): Proposes a thinking fast and slow method for reinforcement learning that combines deep learning and tree search to improve sample efficiency.
+- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (2016): Proposes an RL^2 method for fast reinforcement learning via slow reinforcement learning that improves sample efficiency.
+- [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763) (2016): Proposes a learning to reinforcement learn method for meta-reinforcement learning that improves sample efficiency.
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (2017): Proposes a model-agnostic meta-learning method for fast adaptation of deep networks in reinforcement learning that improves sample efficiency.
+- [A Simple Neural Attentive Meta-Learner](https://openreview.net/forum?id=B1DmUzWAW&noteId=B1DmUzWAW) (2018): Proposes a simple neural attentive meta-learner method for meta-reinforcement learning that improves sample efficiency.
+- [Accelerated Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1803.02811) (2018): Proposes accelerated methods for deep reinforcement learning that improve sample efficiency and learning speed.
+- [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561) (2018): Proposes an importance weighted actor-learner architecture for scalable distributed deep reinforcement learning that improves sample efficiency and learning speed.
+- [Distributed Prioritized Experience Replay](https://openreview.net/forum?id=H1Dy---0Z) (2018): Proposes a distributed prioritized experience replay method for deep reinforcement learning that improves sample efficiency and learning speed.
+- [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/forum?id=r1lyTjAqYX) (2018): Proposes a recurrent experience replay method for distributed reinforcement learning that improves sample efficiency and learning speed.
+- [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381) (2017): Proposes RLlib, a library of abstractions for distributed reinforcement learning that improves sample efficiency and learning speed. [(docs)](https://ray.readthedocs.io/en/latest/rllib.html)
+- [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/abs/1809.07731) (2018): Conducts a benchmarking study of reinforcement learning algorithms on real-world robots.
+- [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177) (2018): Proposes a method for learning dexterous in-hand manipulation skills in reinforcement learning that improves sample efficiency.
+- [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (2018): Proposes a scalable deep reinforcement learning method for vision-based robotic manipulation that improves sample efficiency.
+- [Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260) (2018): Introduces Horizon, Facebook's open-source applied reinforcement learning platform.
+- [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565) (2016): Discusses concrete problems in AI safety, including reinforcement learning.
+- [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528) (2017): Proposes a constrained policy optimization method for reinforcement learning that improves safety and stability.
+- [Safe Exploration in Continuous Action Spaces](https://arxiv.org/abs/1801.08757) (2018): Proposes a safe exploration method for reinforcement learning in continuous action spaces that improves safety and stability.
+- [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173) (2017): Proposes a trial without error method for safe reinforcement learning via human intervention that improves safety and stability.
+- [Leave No Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning](https://arxiv.org/abs/1711.06782) (2017): Proposes a learning to reset method for safe and autonomous reinforcement learning that improves safety and stability.
+- [Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf) (2010): Proposes a principle of maximum causal entropy for modeling purposeful adaptive behavior in reinforcement learning.
+- [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448) (2016): Proposes a guided cost learning method for deep inverse optimal control via policy optimization in reinforcement learning.
+- [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (2016): Proposes a generative adversarial imitation learning method for reinforcement learning that improves sample efficiency.
+- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf) (2018): Proposes a deep mimic method for example-guided deep reinforcement learning of physics-based character skills that improves sample efficiency.
+- [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://arxiv.org/abs/1810.00821) (2018): Proposes a variational discriminator bottleneck method for improving imitation learning, inverse RL, and GANs by constraining information flow in reinforcement learning.
+- [One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL](https://arxiv.org/abs/1810.05017) (2018): Proposes a one-shot high-fidelity imitation method for training large-scale deep nets with reinforcement learning that improves sample efficiency.
+- [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) (2016): Conducts a benchmarking study of deep reinforcement learning algorithms for continuous control.
+- [Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control](https://arxiv.org/abs/1708.04133) (2017): Conducts a reproducibility study of benchmarked deep reinforcement learning tasks for continuous control.
+- [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560) (2017): Discusses the importance of deep reinforcement learning research that addresses real-world problems.
+- [Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods](https://arxiv.org/abs/1810.02525) (2018):  Conducts an empirical analysis of gradient descent optimization in policy gradient methods for reinforcement learning.
+- [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?](https://arxiv.org/abs/1811.02553) (2018): Discusses the definition and properties of policy gradient algorithms in reinforcement learning.
+- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://arxiv.org/abs/1803.07055) (2018): Proposes a simple random search method for reinforcement learning that achieves competitive performance.
 - [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057) (2019):
 - [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (2000):
 - [An Analysis of Temporal-Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) (1997):
