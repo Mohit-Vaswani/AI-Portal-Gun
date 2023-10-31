@@ -85,6 +85,48 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363) (2017)
 - [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355) (2018)
 - [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894) (2018)
+- [Variational Intrinsic Control](https://arxiv.org/abs/1611.07507) (2016)
+- [Diversity is All You Need: Learning Skills without a Reward Function](https://arxiv.org/abs/1802.06070) (2018)
+- [Variational Option Discovery Algorithms](https://arxiv.org/abs/1807.10299) (2018)
+- [Progressive Neural Networks](https://arxiv.org/abs/1606.04671) (2016)
+- [Universal Value Function Approximators](http://proceedings.mlr.press/v37/schaul15.pdf) (2015)
+- [The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously](https://arxiv.org/abs/1707.03300) (2017)
+- [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](https://arxiv.org/abs/1701.08734) (2017)
+- [Mutual Alignment Transfer Learning](https://arxiv.org/abs/1707.07907) (2017)
+- [Learning an Embedding Space for Transferable Robot Skills](https://openreview.net/forum?id=rk07ZXZRb&noteId=rk07ZXZRb) (2018)
+- [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495) (2017)
+- [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (2016)
+- [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017)
+- [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296)
+(2018)
+- [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460) (2016)
+- [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (2017)
+- [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360) (2017):
+- [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760) (2018):
+- [	Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018)
+- [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017):
+- [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/abs/1708.02596) (2017):
+- [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://arxiv.org/abs/1803.00101) (2018):
+- [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675) (2018):
+- [Model-Ensemble Trust-Region Policy Optimization](https://openreview.net/forum?id=SJJinbWRZ&noteId=SJJinbWRZ) (2018):
+- [Model-Based Reinforcement Learning via Meta-Policy Optimization](https://arxiv.org/abs/1809.05214) (2018)
+- [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) (2018)
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815) (2017):
+- [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439) (2017):
+- [RL^2: Fast Reinforcement Learning via Slow Reinforcement Learning](https://arxiv.org/abs/1611.02779) (2016):
+- [Learning to Reinforcement Learn](https://arxiv.org/abs/1611.05763) (2016):
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400) (2017):
+- [A Simple Neural Attentive Meta-Learner](https://openreview.net/forum?id=B1DmUzWAW&noteId=B1DmUzWAW) (2018):
+- [Accelerated Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1803.02811) (2018):
+- [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561) (2018):
+- [Distributed Prioritized Experience Replay](https://openreview.net/forum?id=H1Dy---0Z) (2018):
+- [Recurrent Experience Replay in Distributed Reinforcement Learning](https://openreview.net/forum?id=r1lyTjAqYX) (2018):
+- [RLlib: Abstractions for Distributed Reinforcement Learning](https://arxiv.org/abs/1712.09381) (2017): [(docs)](https://ray.readthedocs.io/en/latest/rllib.html)
+- [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/abs/1809.07731) (2018):
+- [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177) (2018):
+- [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (2018):
+
+
 
 ## Quantum Machine Learning
 
