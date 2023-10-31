@@ -1,6 +1,9 @@
+---
+hide:
+   - toc
+---
+
 # Open-source LLMs
-
-
 
 Open-source Large Language Models provide a versatile foundation for AI development. These models can be fine-tuned for specialized tasks, such as prompt generation or medical applications, offering flexibility and innovation opportunities across various domains, enhancing natural language processing capabilities.
 

@@ -24,19 +24,19 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 ## Generative AI
 
-### Image Generation 
+### Image Generation
 
+### Audio Generation
 
-### Audio Generation 
-### Video Generation 
+### Video Generation
 
+### Code Generation
 
-### Code Generation 
 ### Multimodel
 
 ### Prompt Engineering
-## Robotics
 
+## Robotics
 
 ## Healthcare & Biology
 
@@ -50,7 +50,7 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527) (2015): Proposes a deep recurrent Q-learning algorithm for partially observable Markov decision processes.
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581) (2015): Introduces a dueling network architecture for deep reinforcement learning that separates the estimation of state values and state-dependent action advantages.
 - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461) (2015): Proposes a double Q-learning algorithm for deep reinforcement learning that reduces overestimation of action values.
-- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) (2015):  Introduces a prioritized experience replay mechanism for deep reinforcement learning that improves sample efficiency and learning speed.
+- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952) (2015): Introduces a prioritized experience replay mechanism for deep reinforcement learning that improves sample efficiency and learning speed.
 - [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298) (2017): Combines several improvements to deep reinforcement learning, including dueling networks, double Q-learning, and prioritized experience replay, to achieve state-of-the-art performance on Atari games.
 - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783) (2016): Proposes asynchronous methods for deep reinforcement learning that improve sample efficiency and learning speed.
 - [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477) (2015): Introduces a trust region optimization method for policy optimization in reinforcement learning that improves stability and sample efficiency.
@@ -98,12 +98,12 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695) (2016)
 - [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161) (2017)
 - [Data-Efficient Hierarchical Reinforcement Learning](https://arxiv.org/abs/1805.08296)
-(2018)
+  (2018)
 - [Model-Free Episodic Control](https://arxiv.org/abs/1606.04460) (2016)
 - [Neural Episodic Control](https://arxiv.org/abs/1703.01988) (2017)
 - [Neural Map: Structured Memory for Deep Reinforcement Learning](https://arxiv.org/abs/1702.08360) (2017):
 - [Unsupervised Predictive Memory in a Goal-Directed Agent](https://arxiv.org/abs/1803.10760) (2018):
-- [	Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018)
+- [ Relational Recurrent Neural Networks](https://arxiv.org/abs/1806.01822) (2018)
 - [Imagination-Augmented Agents for Deep Reinforcement Learning](https://arxiv.org/abs/1707.06203) (2017):
 - [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/abs/1708.02596) (2017):
 - [Model-Based Value Expansion for Efficient Model-Free Reinforcement Learning](https://arxiv.org/abs/1803.00101) (2018):
@@ -125,7 +125,31 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Benchmarking Reinforcement Learning Algorithms on Real-World Robots](https://arxiv.org/abs/1809.07731) (2018):
 - [Learning Dexterous In-Hand Manipulation](https://arxiv.org/abs/1808.00177) (2018):
 - [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293) (2018):
-
+- [Horizon: Facebook’s Open Source Applied Reinforcement Learning Platform](https://arxiv.org/abs/1811.00260) (2018):
+- [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565) (2016):
+- [Constrained Policy Optimization](https://arxiv.org/abs/1705.10528) (2017):
+- [Safe Exploration in Continuous Action Spaces](https://arxiv.org/abs/1801.08757) (2018):
+- [Trial without Error: Towards Safe Reinforcement Learning via Human Intervention](https://arxiv.org/abs/1707.05173) (2017):
+- [Leave No Trace: Learning to Reset for Safe and Autonomous Reinforcement Learning](https://arxiv.org/abs/1711.06782) (2017):
+- [Modeling Purposeful Adaptive Behavior with the Principle of Maximum Causal Entropy](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf) (2010):
+- [Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization](https://arxiv.org/abs/1603.00448) (2016):
+- [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476) (2016):
+- [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://xbpeng.github.io/projects/DeepMimic/2018_TOG_DeepMimic.pdf) (2018):
+- [Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow](https://arxiv.org/abs/1810.00821) (2018):
+- [One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL](https://arxiv.org/abs/1810.05017) (2018):
+- [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778) (2016):
+- [Reproducibility of Benchmarked Deep Reinforcement Learning Tasks for Continuous Control](https://arxiv.org/abs/1708.04133) (2017):
+- [Deep Reinforcement Learning that Matters](https://arxiv.org/abs/1709.06560) (2017):
+- [Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods](https://arxiv.org/abs/1810.02525) (2018):
+- [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms?](https://arxiv.org/abs/1811.02553) (2018):
+- [Simple Random Search Provides a Competitive Approach to Reinforcement Learning](https://arxiv.org/abs/1803.07055) (2018):
+- [Benchmarking Model-Based Reinforcement Learning](https://arxiv.org/abs/1907.02057) (2019):
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf) (2000):
+- [An Analysis of Temporal-Difference Learning with Function Approximation](http://web.mit.edu/jnt/www/Papers/J063-97-bvr-td.pdf) (1997):
+- [Reinforcement Learning of Motor Skills with Policy Gradients](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf) (2008):
+- [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf) (2002):
+- [A Natural Policy Gradient](https://papers.nips.cc/paper/2073-a-natural-policy-gradient.pdf) (2002):
+- [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) (2009):
 
 
 ## Quantum Machine Learning
@@ -140,6 +164,6 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [Quantum algorithms for topological and geometric analysis of data]() (2016) - Presents quantum algorithms for data topology/geometry.
 - [Quantum reinforcement learning]() (2008) - An early approach to quantum reinforcement learning using superposition of states.
 
-## Collections 
+## Collections
 
 - [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html#) by Open AI Spinning Up
