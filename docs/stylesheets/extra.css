@@ -5,7 +5,7 @@
 }
 
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color: #000000;
+  --md-default-bg-color: #111111;
   color: #E3E3E4;
 }
 
@@ -37,12 +37,12 @@ body {
 .md-tabs{
   font-weight: 400;
   color: #ffffff;
-  background-color: #77b900;
+  background-color: rgb(20,21,27);
   font-family: 'Roboto', sans-serif;
 }
 
 .md-header{
-  background-color: #77b900;
+  background-color: rgb(20,21,27);
 }
 
 .md-search-result__meta{

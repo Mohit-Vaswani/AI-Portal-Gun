@@ -9,6 +9,7 @@ theme:
     - navigation.tabs
     - navigation.path
     - navigation.indexes
+    - navigation.top
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
