@@ -42,21 +42,35 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 
 - [Language Models as Knowledge Bases?](https://arxiv.org/abs/1909.01066) [(pdf)](https://github.com/facebookresearch/LAMA)
 
-- []
 
 ## Robotics
+
+### Key Papers
+
+- [A Practical and Effective Layout for a Safe Human-Robot Collaborative Assembly Task](https://doi.org/10.3390/app11041763) (2021)
+- [Control of DC Motors to Guide Unmanned Underwater Vehicles](https://doi.org/10.3390/app11052144) (2021)
+- [Belt Conveyors Rollers Diagnostics Based on Acoustic Signal Collected Using Autonomous Legged Inspection Robot](https://doi.org/10.3390/app11052299) (2021)
+- [Deep Reinforcement Learning for the Control of Robotic Manipulation: A Focussed Mini-Review](https://www.mdpi.com/2218-6581/3/4/57) (2019)
+- [Steps Towards the Object Semantic Hierarchy](https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2011-05-2927) (2011)
+- [Topological Mapping and Navigation in Real-World Environments](https://deepblue.lib.umich.edu/handle/2027.42/146710) (2018)
+- [A tale of two architectures: A dual-citizenship integration of natural language and the cognitive map](https://link.springer.com/article/10.1007/s10458-017-9364-8) (2017)
+- [Creating and Utilizing Symbolic Representations of Spatial Knowledge using Mobile Robots](https://repositories.lib.utexas.edu/handle/2152/ETD-UT-2008-05-305) (2008)
+- [A robust layered control system for a mobile robot](https://ieeexplore.ieee.org/document/547205) (1996)
+- [Probabilistic robotics](https://www.cs.cmu.edu/~thrun/probrob-12.pdf) (2005)
 
 ## Healthcare & Biology
 
 ## Approaches
 
 ## Reinforcement Learning
+- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/abs/2002.06038) (2020)
 
 ####  Key Papers 
 
-- [Never Give Up: Learning Directed Exploration Strategies](https://arxiv.org/abs/2002.06038) (2020)
 - [Q-learning](https://www.gatsby.ucl.ac.uk/~dayan/papers/cjch.pdf) (1992): Introduces the Q-learning algorithm, one of the fundamental algorithms in RL.
 - [Policy invariance under reward transformations: Theory and application to reward shaping](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/NgHaradaRussell-shaping-ICML1999.pdf) (1999): Discusses the invariance of policies under reward transformations and the concept of reward shaping.
+- [Learning to Predict by the Methods of Temporal Differences](https://www.researchgate.net/publication/225264698_Learning_to_Predict_by_the_Method_of_Temporal_Differences) (1988): Introduced the temporal difference (TD) learning algorithm, which is a model-free method for learning value functions in RL.
+- [Actor-Critic Algorithms](https://proceedings.neurips.cc/paper_files/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf) (2003): Introduced the actor-critic architecture, which is a model-based method for learning policies in RL.
 
 
 
