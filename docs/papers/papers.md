@@ -76,6 +76,15 @@ Below, you'll find the latest, highly-cited papers, organized by their release d
 - [The Reactor: A Fast and Sample-Efficient Actor-Critic Agent for Reinforcement Learning](https://arxiv.org/abs/1704.04651) (2017): Introduces a fast and sample-efficient actor-critic algorithm for reinforcement learning that improves sample efficiency and learning speed.
 - [Interpolated Policy Gradient: Merging On-Policy and Off-Policy Gradient Estimation for Deep Reinforcement Learning](http://papers.nips.cc/paper/6974-interpolated-policy-gradient-merging-on-policy-and-off-policy-gradient-estimation-for-deep-reinforcement-learning) (2017): Proposes an interpolated policy gradient algorithm for deep reinforcement learning that combines on-policy and off-policy gradient estimation.
 - [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440) (2017): Shows the equivalence between policy gradients and soft Q-learning in reinforcement learning.
+- [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](https://arxiv.org/abs/1703.03864) (2017)
+- [VIME: Variational Information Maximizing Exploration](https://arxiv.org/abs/1605.09674) (2016)
+- [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/abs/1606.01868) (2016)
+- [Count-Based Exploration with Neural Density Models](https://arxiv.org/abs/1703.01310) (2017)
+- [#Exploration: A Study of Count-Based Exploration for Deep Reinforcement Learning](https://arxiv.org/abs/1611.04717) (2016)
+- [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://arxiv.org/abs/1703.01260) (2017)
+- [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/abs/1705.05363) (2017)
+- [Large-Scale Study of Curiosity-Driven Learning](https://arxiv.org/abs/1808.04355) (2018)
+- [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894) (2018)
 
 ## Quantum Machine Learning
 
